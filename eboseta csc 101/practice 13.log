@@ -1,0 +1,1490 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.10.28)  2 NOV 2021 22:45
+entering extended mode
+**"./practice 13.tex"
+("practice 13.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcapt
+ion.sty"
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+.sty"
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+3.sty"
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@tempdima=\dimen140
+\caption@indent=\dimen141
+\caption@parindent=\dimen142
+\caption@hangindent=\dimen143
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count175
+\c@continuedfloat=\count176
+)
+\c@subfigure=\count177
+\c@subtable=\count178
+)
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count179
+\l__pdf_internal_box=\box45
+) ("practice 13.aux")
+\openout1 = `"practice 13.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count180
+\scratchdimen=\dimen144
+\scratchbox=\box46
+\nofMPsegments=\count181
+\nofMParguments=\count182
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count183
+\MPscratchDim=\dimen145
+\MPnumerator=\count184
+\makeMPintoPDFobject=\count185
+\everyMPtoPDFconversion=\toks17
+)
+("C:\Users\Eboseta's pg\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+
+! LaTeX Error: Environment subfiguring undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9    			\begin{subfiguring}
+                             [b]{0.4\linewidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.9    			\begin{subfiguring}[b]{0.4\linewidth}
+                                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.9    			\begin{subfiguring}[b]{0.4\linewidth}
+                                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .pdf\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .png\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .jpg\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .mps\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...inewidth \endcsname .jpeg\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...newidth \endcsname .jbig2\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .jb2\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .PDF\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .PNG\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .JPG\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...inewidth \endcsname .JPEG\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...newidth \endcsname .JBIG2\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .JB2\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .eps\endcsname 
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+
+! LaTeX Error: File `width\linewidth ' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10    		\includegraphics{width\linewidth}
+                                           {cofee.jpg}
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{figure} on input line 7 ended by \end{subfiguring}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12    			\end{subfiguring}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfiguring undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13    			\begin{subfiguring}
+                              [b]{0.4\linewidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.13    			\begin{subfiguring}[b]{0.4\linewidth}
+                                                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.13    			\begin{subfiguring}[b]{0.4\linewidth}
+                                                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .pdf\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .png\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .jpg\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .mps\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...inewidth \endcsname .jpeg\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...newidth \endcsname .jbig2\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .jb2\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .PDF\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .PNG\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .JPG\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...inewidth \endcsname .JPEG\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...newidth \endcsname .JBIG2\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .JB2\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   linewidth 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \endcsname 
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...linewidth \endcsname .eps\endcsname 
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I'm ignoring this, since I wasn't doing a \csname.
+
+
+! LaTeX Error: File `width\linewidth ' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14    			\includegraphics{width\linewidth}
+                                            {cofee.jpg}
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{figure} on input line 7 ended by \end{subfiguring}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17    	\end{subfiguring}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+
+{C:/Users/Eboseta's pg/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+("practice 13.aux") ) 
+Here is how much of TeX's memory you used:
+ 2424 strings out of 480790
+ 42264 string characters out of 2893983
+ 279172 words of memory out of 3000000
+ 18477 multiletter control sequences out of 15000+200000
+ 532338 words of font info for 24 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,4n,47p,289b,285s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Eboseta's pg/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "practice 13.pdf" (1 page, 18241 bytes).
+PDF statistics:
+ 10 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
